@@ -2,7 +2,7 @@
 Material relacionado a parte mais inferencial da estatística. 
 
 Os principais pontos abordados são:
-* Problemas de estimativa
+* Problemas de estimativa (por exenplo intervalos de confiança)
 * Testes de hipóteses
 
-Para estes pontos o objetivo é trazer exemplos que envolvem o uso de médias e proporções
+Para estes pontos o objetivo é trazer exemplos que envolvem o uso de **médias** e **proporções**.
